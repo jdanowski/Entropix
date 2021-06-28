@@ -50,6 +50,11 @@ calculate_bigram_entropy <- function(f_in, df_stop_words,
   
   cli_alert_success('\tGot {length(txt)} lines ')
   
+  if (length(txt) == 0) {
+    cli_alert_danger('\tGot zero lines!!! Exiting')
+    return(invisible(FALSE))
+  }
+  
   # clean up text
   cli_alert_info('\tCleaning raw text')
   
