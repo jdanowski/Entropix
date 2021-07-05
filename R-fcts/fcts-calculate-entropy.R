@@ -73,7 +73,10 @@ calculate_bigram_entropy <- function(f_in, df_stop_words,
   txt <- str_squish(txt)
   cli_alert_success('\t\t-Removed double whitespaces')
   
-  
+  if (length(txt) == 0) {
+    cli_alert_danger('\tGot zero lines!!! Exiting')
+    return(invisible(FALSE))
+  }
   
   cut_index <- cut(seq(1, length(txt)), breaks = n_pieces )
   l_split <- split(txt, cut_index )
@@ -112,13 +115,26 @@ calculate_bigram_entropy <- function(f_in, df_stop_words,
   rm(l_split); gc()
   
   cli_alert_info('\tComputing entropy')
+  
+  if (nrow(bind_rows(l_processed)) < 5) {
+    cli_alert_danger('\tNot enough bigrams!!! Exiting')
+    return(invisible(FALSE))
+  }
 
   df_count <- bind_rows(l_processed)  %>%
     group_by(bigram, word1, word2) %>%
     summarise(freq = sum(freq)) %>%
     arrange(desc(freq)) %>%
     na.omit() %>%
-    ungroup() %>%
+    ungroup() 
+  
+  if (!any(df_count$freq > threshold_freq_xlsx)) {
+    cli_alert_danger('\tNot enough bigrams frequency!!! Exiting')
+    return(invisible(FALSE))
+  }
+  
+  
+  df_count <-   df_count %>%
     filter(freq >= threshold_freq_xlsx) %>% # filter for freq > than threshold
     # calculate entropy here ----
     mutate(p = freq/sum(freq), # For each bigram, compute the probability by dividing its frequency by the total bigram frequency.

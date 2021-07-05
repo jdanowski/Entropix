@@ -35,7 +35,7 @@ use_word_filtering <- FALSE
 
 # show plots? if TRUE, will show a new plot and save it in /figures
 # if FALSE, will only save it and will not show
-show_plots <- TRUE
+show_plots <- FALSE
 
 # get stop words
 df_stop_words <- get_stop_words()

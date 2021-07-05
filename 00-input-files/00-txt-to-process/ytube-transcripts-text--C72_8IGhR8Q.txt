@@ -1,0 +1,121 @@
+when the air tags were first announced there was 
+one thing i was especially looking forward to test   and that was how good are the air tags at tracking 
+parcels being shipped overseas well i thought   about shipping one to a friend abroad but that 
+just didn't seem that interesting to me so instead   i shipped three one to tim cook at apple's 
+headquarters one to elon musk at spacex   and lastly one to north korea i was gonna send 
+a fourth one to the white house but a lawyer   advised me against it warning there could be 
+national security implications so i thought   yeah all right suppose i want someone 
+to the white house now i will say   if there was any test that proves 
+just how effective the air tags are   it would be this one honestly this project was 
+so interesting and you're about to find out why now the first thing i want to address is is 
+this even legal i tried to find information   on the legalities of tracking a parcel and well 
+there's not a lot of information out there so i   got in contact with some lawyers the first lawyer 
+i contacted was from germany and he didn't see any   legal issues and tracking a parcel with an attack 
+the second lawyer i reached out to was from the us   and he had this to say legally you should 
+be fine including an air tag in a package   you're not tracking a person but a package so 
+you shouldn't run afoul of any privacy laws   he then started going on about how the 
+air tag would deactivate after three days   acting like he knew the product better than me 
+come on mate stick to your day job second thing   do i really think elon musk or tim cook will 
+get my package honestly probably not but maybe   i'm sure the both of them receive a lot of fan 
+mail and for that reason there could be some   form of redirection or mail forwarding put 
+in place so if either of the parcels make it   to the intended destination honestly i'll be 
+more than happy with that outcome last thing   north korea shipping items to north korea from 
+the us is not an easy task in fact due to strict   economic sanctions imposed by the united states 
+or mail to north korea is regulated by the office   of foreign assets control so at the moment only 
+first class letters and postcards can be sent   but i live in germany and it just so happens 
+that dhl is one of the few logistics companies   that still offer shipping to north korea why 
+north korea well the intention here certainly   isn't to be in any way provocative but there's a 
+lot we don't know about this country especially   from a technology perspective like do they have 
+access to the internet or do they even own iphones   well unless they have both of those the 
+ear tags will go completely undetected   but fear not i came across a website called stack 
+counter which claims to have data on north korea's   smartphone market share and according to them 
+iphone is the second most popular smartphone in   the country second to samsung but what's weird is 
+just last month apple was number one i had to dig   deeper into this so i dug through this website to 
+try and understand where and how exactly they get   their data it turns out they have their tracking 
+api code installed on over two million websites   globally with this tracking data they're able 
+to extrapolate which country a user is from and   which device they're using i dug even deeper and 
+found out that they even provide the sample sizes   of their data for each country for north korea 
+the smartphone sample size was 538 it's not a lot   but it's good enough for me so we 
+begin this journey on dhl's website tim cook's parcel will be sent to the famous 
+apple park headquarters in san francisco one   apple parkway the package to elon musk is going 
+to the spacex headquarters at one rocket road   in hawthorne california man both these companies 
+have their own roads respect at this point it   occurred to me that i needed a mailing address for 
+north korea after some browsing on google maps i   noticed there was a german embassy in the center 
+of pyongyang perfect i found the address for the   embassy online and of course entered it in i made 
+sure to include track and trace shipping for each   of the parcels so we could compare dhl's updates 
+with my air tag updates boy am i glad that i did   that i also made sure to declare the air tag on 
+each of the customs forms that way no matter who   receives this parcel they know that there's an 
+air tag inside of it it was the right thing to do   with the shipping labels printed out and slapped 
+on these envelopes i prepared the air tags apple   got the unicorn ear tag spacex got the alien and 
+north korea just got the standard one now i didn't   want to send the air tag by itself that would just 
+be weird so i wrote a friendly letter for each of   the recipients basically i told them about this 
+project asked them what they thought about it and   then asked if they could sign and return the air 
+tag to me i then took this opportunity to throw in   a dogecoin for elon musk to center the moon with 
+that all done we were ready to rock and roll i   dropped off the parcels on friday the 7th of may 
+in the afternoon a few hours later i could see   that the air tags were on the road making their 
+way south right from the get-go this was really   exciting dhl don't inform you when a parcel leaves 
+the post office so i already had more information   than one would normally get which i'm not gonna 
+lie was pretty cool while the air tags were on   the road i was getting updates every 10 to 15 
+minutes or so not bad the parcels made it to a   packet station in a city called langenfeldt where 
+they spent the night how cool are these 3d views   when i woke up the next day i realized my 
+packages had made it all the way to frankfurt   airport but i had no update from dhl three days 
+later the air tax was still giving me regular   updates but the parcels hadn't moved at all from 
+frankfurt airport i got my first update from dhl   on the parcel heading to spacex which told me the 
+shipment is transported to the destination country   slash destination area and hand it over to the 
+delivery organization there yet i could clearly   see that the parcel had not yet left frankfurt i 
+kept my eyes peeled to watch out for any movement   but nothing come the 12th of may apple's parcel 
+had received the same notification yet also no   movement we were now at the 14th of may a full 
+week later and all the parcels were still at   frankfurt airport i was so confused and really 
+frustrated to make matters worse the north korean   parcel had no updates at all elon's parcel did 
+move to the other side of the airport but that's   about it on saturday the 15th it finally looked 
+as though something was happening the packages for   apple and spacex had moved to what looked like a 
+loading bay they were ready to fly now it was late   in the afternoon and there weren't many flights 
+left for the day so i checked if there were any   cargo flights bound for america i came across 
+an aerologic flight that had an unmarked arrival   destination i'd never heard of this airline before 
+but i found out that they were half owned by dhl   so i had a good feeling that this was the flight 
+as i tracked the flight just a few minutes after   takeoff the arrival destination was added and it 
+was heading straight for jfk airport in new york i   woke up at 4 am the next day to screen record the 
+landing not long after landing we had confirmation   my air tags had made it to jfk airport new 
+york in the usa oh it was a sight to behold   i checked dhl's website for an update but nothing 
+i only got an update from dhl two days later   on the 18th of may informing me that apple's 
+parcel had arrived thanks dhl i already knew   that two days ago what's worse is elon's parcel 
+didn't get this update until the 21st of may   why they were on the same flight on the 19th 
+of may dhl had notified me that apple's parcel   had cleared customs and was ready to leave jfk but 
+nothing happened until the following day when i   received a notification on find my it had picked 
+up the signal of tim cook's parcel in nevada and   like in the middle of nowhere i knew straight away 
+that it must have been picked up mid-flight so i   jumped on flight radar and found a flight that 
+had already left from jfk and was very close to   where my air attack had been pinged unbelievable 
+most likely someone's iphone was connected to the   internet mid-flight made a connection to my air 
+tag and that location data was then sent to me   what an age we live in surely enough not long 
+after touchdown i get a second update from the   air tag and it was in san francisco check this out 
+so sick now elon's parcel was still at jfk airport   and sadly still no update on the north korean 
+parcel i was starting to get worried about it   the next day apple's parcel had arrived 
+at a local post office in cupertino   the u.s postal service had then notified me that 
+the parcel had been picked up by the recipient   eventually i could see it was on the road and 
+very close to arriving at apple park i was so   excited i thought this is it but it didn't stop 
+there it kept going it eventually stopped at what   seemed to be some kind of logistics center after 
+spending a few days at this logistics center   the air tag was finally on the road again 
+hope was restored and finally on may 24th it arrived i was over the moon i mean look at how 
+cool that looks so sick on the same day elon's   parcel had made it to california unfortunately i 
+wasn't able to pick up on the flight it took but   things were starting to fall into place nicely 
+on tuesday the 25th elon's parcel arrived at a   local post office and began heading towards 
+its final destination and what do you know it made it unbelievable honestly i had no 
+idea if any of these parcels would make it   to the intended destination and the fact 
+that two halves so far was mind-blowing   but on the north korean front things weren't 
+looking too good the parcel still didn't have   an update and it was still stuck at frankfurt 
+airport i was devastated so i tried contacting dhl   who told me i need to submit an investigation 
+to find out what was going on after doing that i   was told i would need to wait an additional three 
+weeks before i would get an answer not okay with   me so i decided to send another one this time i 
+decided to try a different north korean address   so i stumbled across this website for a north 
+korean film festival commission i don't know   but it had an address and it was good enough 
+for me so i repeated that whole process again and sent that bad boy on its way it made 
+it to frankfurt and was chilling with the   first north korean parcel now here's the great 
+news on may the 29th i got an update from dhl   informing me that the second package is 
+now on its way to the destination country   meaning it's eventually going to go to north 
+korea so if you want to find out what happens   to that parcel be sure to subscribe i really 
+didn't want to have to split this video into   two sections but it's already been almost 
+a month now and i really wanted to get this   video out there for you guys and of course 
+i'll be following up on what happens with   the air tags that were sent to tim cook and 
+elon musk and if you haven't seen it yet check   out this video i made where i intentionally 
+left three valuable objects in public to be   stolen and of course they had air tags attached 
+to them thanks a lot guys see you next time you

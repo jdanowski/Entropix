@@ -1,0 +1,108 @@
+Sony Pictures Entertainment is reeling from what may be the biggest and most devastating computer hacking in Hollywood's history. Hackers attacked in waves. First, crippling Sony's internal systems, then leaking five Sony movies online. Today, the U.S. government pointed the finger of blame
+directly at North Korea for the devastating cyber
+attack against Sony Pictures. Sony pulling the plug on the interview, saying it will not show
+the controversial comedy about an assassination attempt
+on North Korea's leader. The Sony Pictures hacking
+was taken very seriously because it was an attack
+on the free world. What we had been building, in terms of our
+civilization and our freedom and our ability to
+exchange information freely had been disrupted by a country that we
+knew very little about. North Korea has reportedly made attempts to steal Covid-19 vaccine technology by hacking pharmaceutical giant Pfizer. The Justice Department has charged three North Korean hackers over a wide-ranging scheme
+that included the attempt theft of billions of dollars
+from multiple companies. Despite so many attacks
+blamed on North Korea, there was not much known about the people behind
+the hacking attacks. And my aim was to reveal
+who these people are, what they are like, what
+their operations are like and on what their dreams and fears were. My name is Sam Kim. I'm a reporter for Bloomberg News, and I wrote a story for Businessweek about North Korean hackers. My story is about people who
+are sent from North Korea to countries like China
+to hack for the regime, spy on enemies and make money. North Korea's cyber abilities
+began about in the 1970s with a lot of students going to countries like Russia, China and even
+East Germany to learn coding. It was aimed at improving the productivity of factories at home. But in some time in the 1980s and 1990s, the current leader Kim Jong
+Un's father, Kim Jong Il, thought that it would be a
+good idea to develop a team, an army of people who could
+hack for North Korea's military. So they began this team of basically hackers, who would spy for the North Korean regime and also go out there and make
+hard currency for the regime. I think Kim Jong Un takes the
+hacking ability more seriously than his father. He also enjoys a bit of
+tech savviness as well. You know, he's often shown
+traveling on his airplane, where on the desk, there's a Mac computer. He understands the
+importance of computers. He understands the importance
+of employing technology to improve productivity of his economy. North Korea is an isolated country with its economy pretty
+much dilapidated nowadays. It's been under increasing
+pressure and sanctions from the U.S. and the
+international community basically. It does not have the resources and money to build the kind of conventional weapons that other countries are able to build. So what happens is
+North Korea concentrates its resources on building
+nuclear arms and missiles, which experts call basically
+asymmetric weapons. It's the kind of weapons
+that gives North Korea an instant edge. Think of cyber-hacking abilities in that context. It doesn't
+cost them much money. But if you have the right people, and if you have the right training, you are able to cultivate an
+army of people who are able to penetrate into computer
+systems of other countries. And that's what North Korea is after. But if you consider the
+fact that there are only about 1,000 IP addresses
+in North Korea available, and many of them are basically loaned from Chinese communications companies, you can kind of tell why
+North Korea is willing to send its hackers abroad rather
+than operate from within. What's the matter with
+operating from within? Well, first of all, it would mean
+that a lot of information would have to be coming
+in from the outside world, which could risk exposing the government and the people to whatever
+truth there might be about them. So there they're sending
+their trained hackers to China and other countries where
+access to information is better. But at the same time,
+because these are allies, and also because they have
+their diplomat station in countries like these, like China, they're able to regulate and
+control these hackers better. But formally, North Korea denies engaging in hacking and describes accusations to that effect as enemy propaganda. It took me at least half a year to track down these people. It felt like a wild goose
+chase in the beginning because, see, a lot of
+the people like these are protected by the
+government in South Korea. But at the end, I was able to find a person
+who had pretty extensive ties to the North Korean-defected
+community here. And then, I was also able to gain access to the people who had actually
+done programming hacking for North Korea before
+coming to South Korea. And Jong is one of them. Jong actually is not a real name. I knew before meeting Jong
+that he was in his late 30s. But when I actually met him, he looked at least a decade older. He wouldn't open up. I mean, it took me, I think at least an hour to make sure
+that he would trust me enough that he would share
+with me his life story. When he was first sent to China, he was a student studying
+computer science at a university near the border with North Korea. And he came back and realized
+that there was a lot more to do in China because he had
+more access to information, and he asked that he'd
+be sent back to China. And there was also recruitment going on for people who would actually
+do coding officially, but really hacking for North Korea. So, he applied and he got the job. Once he got to the border,
+he crossed by foot. And from there, he took a bus. And then when he arrived at the station that he would spend years in later, he learned that that three-story building in the heart of the city
+was actually provided for free actually by a Chinese man who had business ties in North Korea. There were actually two
+other people that I had met. They all said that they go
+into this freelance website for programmers, and clients from
+around the world would come and give them orders,
+give them jobs to do. Some of the jobs given to
+Jong were cracking open commercially successful
+antivirus programs. And once he was able to open that up, he replicated that program
+into another product, which his client would repackage as a whole different product
+to be sold to other people. He also created what we now call bots. There are very popular online games, including Lineage. He would create a bot that
+would just roam around without any supervision from the user and basically trade items
+with other users on that game. He would grow that bot on Lineage, and sell it for almost $100. Another defector said the
+money from clients was wired primarily via PayPal to
+accounts controlled by minders because they were the
+only ones with access to legitimate bank accounts. Jong had to make at least $100,000 a year, and he doesn't get to keep most of it. Actually, most of the
+money goes to minders, to the North Korean regime. But if you don't meet the quota, the minders will make sure that they'll put enough pressure on you. And if that happens repeatedly, you will face the growing
+odds of being sent back home. Among the three people that I spoke to, there's a common thing
+that they all tell me, which is that on every Saturday, they have to do this propaganda session, which is basically about gathering all of the hackers together into a room, and they have
+to recite whatever messages, whatever lines come from Pyongyang, about the Kim family, about socialism. If you're especially someone
+with a free set of mind, that's stressful. One person actually was
+really stressed out. What he heard about North Korea once he was in China during
+the propaganda sessions, he's just couldn't take it. Jong was a senior member of
+the unit that he belonged to, and he was good at Chinese as well. Whenever the senior North
+Korean official came from North Korea to check on
+the hacking units in China, Jong would accompany that official. He doesn't provide me details, but he calls it "unsavory
+incident" that happened between him and an official
+that he was traveling with. And that altercation prompted him to defect. But there was no one that he
+could turn to after defecting. He would in disguise roam around China. He told me that he actually enjoyed it. He actually enjoyed the
+freedom of, you know, not being known to anybody, just roaming around a
+country that was huge. How did he make the money
+that he needed to carry on? He did the same thing he did, you know, at the North Korean unit. He would take orders. He would reverse engineer
+software to make money. But at one point, he said he
+was just sick and tired of it all of a sudden. It just, he wanted to find a place where he could just settle down. And he contacted South Korean authorities. Now, he lives in Korea. He met a woman here. You know, last time I
+checked, they had a baby. He worked for a software company, ironically an antivirus company. What keeps coming up in my head, even long after I spoke to these people, is there was one common thing about them, which was the sense of disillusionment. Once they had access
+to outside information, once they were able to
+freely roam in the internet, there was a spark. And once they realized
+that there's a discrepancy between what they think
+is really happening and what North Korea is telling
+them every Saturday morning, that's when the spark gets bigger. That little fire is what
+eventually drives them to decide to leave. Even if it takes a huge
+risk on their lives.
