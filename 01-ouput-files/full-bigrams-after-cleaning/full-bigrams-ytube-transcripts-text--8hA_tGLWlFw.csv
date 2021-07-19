@@ -1,0 +1,3 @@
+bigram,word1,word2,freq,p,entropy,cum_entropy,r_number,max_cum_entropy,entropy_diff,optimal_entropy,diff_from_threshold,entropy_cross_over_point
+north korea,north,korea,54,0.8307692307692308,0.22221441210321913,0.22221441210321913,1,0,-0.22221441210321913,NA,NA,NA
+north korean,north,korean,11,0.16923076923076924,0.4337276636661958,0.655942075769415,2,1,0.344057924230585,NA,NA,NA

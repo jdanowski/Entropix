@@ -1,0 +1,4 @@
+bigram,word1,word2,freq,p,entropy,cum_entropy,r_number,max_cum_entropy,entropy_diff,optimal_entropy,diff_from_threshold,entropy_cross_over_point
+james dresnok,james,dresnok,17,0.38636363636363635,0.5300788458085974,0.5300788458085974,1,0,-0.5300788458085974,NA,NA,NA
+north korea,north,korea,16,0.36363636363636365,0.530702406777199,1.0607812525857965,2,1,-0.060781252585796475,NA,NA,NA
+north korean,north,korean,11,0.25,0.5,1.5607812525857965,3,1.584962500721156,0.0241812481353596,NA,NA,NA

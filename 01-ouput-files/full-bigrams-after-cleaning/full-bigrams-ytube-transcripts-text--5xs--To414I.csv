@@ -1,0 +1,2 @@
+bigram,word1,word2,freq,p,entropy,cum_entropy,r_number,max_cum_entropy,entropy_diff,optimal_entropy,diff_from_threshold,entropy_cross_over_point
+north korea,north,korea,11,1,0,0,1,0,0,NA,NA,NA

@@ -1,4 +1,5 @@
-calculate_bigram_entropy <- function(f_in, df_stop_words,
+calculate_bigram_entropy <- function(f_in, 
+                                     df_stop_words,
                                      show_plots = TRUE,
                                      use_word_filtering,
                                      n_pieces,
@@ -257,6 +258,14 @@ calculate_bigram_entropy <- function(f_in, df_stop_words,
   
   
   cli_alert_info('\tBuilding output files')
+  
+  # dump bigrams to folder (july2021 - email)
+  f_bigrams_out <- fs::path('01-ouput-files/full-bigrams-after-cleaning/',
+                            str_glue('full-bigrams-{basename_f_noext}.csv'))
+  write_csv(df_count, 
+            f_bigrams_out)
+  
+  cli_alert_success('\t\tfull bigrams saved at {f_bigrams_out}')
   
   # build first output (filtered table -- threshold)
   df_count_filtered_threshold <- df_count %>%
